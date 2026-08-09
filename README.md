@@ -24,9 +24,5 @@
 <img width="150" height="20" alt="4b32f32c" src="https://github.com/user-attachments/assets/8de3e451-0d40-49dd-b19d-c6db35270b8d" />
 
 <img width="150" height="20" alt="cancer" src="https://github.com/user-attachments/assets/e0712ea9-0351-4893-b544-0268949d4eb8" />
-<img width="150" height="20" alt="napoleon" src="https://github.com/user-attachments/assets/71dc3df2-f2a0-441a-a582-3c46fed84420" />
-<img width="150" height="20" alt="b76c456a" src="https://github.com/user-attachments/assets/44cc1818-f648-4c72-8a92-db23ed42b003" />
-
-
 
 
