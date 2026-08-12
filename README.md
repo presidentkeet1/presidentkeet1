@@ -25,3 +25,4 @@
 
 <img width="150" height="20" alt="cancer" src="https://github.com/user-attachments/assets/e0712ea9-0351-4893-b544-0268949d4eb8" />
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31xzplxve4ixhca4osy33kp74bhu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=454c5f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
