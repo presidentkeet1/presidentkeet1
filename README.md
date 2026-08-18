@@ -8,7 +8,7 @@
 
 <img width="555" height="63" alt="mm0me33" src="https://github.com/user-attachments/assets/18e5ad81-70d2-4a85-a4ae-1e87eb251bb4" />
                                                                                                                                   
-
+current fav movies: good burger, rush hour, the hitcher
 
 ##
 
