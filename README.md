@@ -29,5 +29,4 @@ see my letterboxd for ones ive watched (not all of them are there since its a re
 <img width="50" height="50" alt="Coat_of_arms_of_Iraq" src="https://github.com/user-attachments/assets/3b6818b6-45c8-4232-9bfa-360a44d0fca8" />
 
 ##
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31xzplxve4ixhca4osy33kp74bhu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=454c5f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31nwjsmx722fxdfbtxlm6gxmza5i&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=bfbfbf&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
