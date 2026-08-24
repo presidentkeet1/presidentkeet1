@@ -10,7 +10,7 @@
 
 I LOVE MOVIES.                                                                                                                                  
 current fav movies: the outsiders, good burger, rush hour, the hitcher
-see my letterboxd for ones ive watched (not all of them are there since its a relatively new account)
+
 ##
 
 <img width="150" height="20" alt="radiohead" src="https://github.com/user-attachments/assets/03f0740d-f713-422e-baf1-8727a6cf0dd3" />
