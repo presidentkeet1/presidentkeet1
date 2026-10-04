@@ -1,4 +1,3 @@
-<img width="200" height="50" alt="charlie-kirk-praying" src="https://github.com/user-attachments/assets/e92e255e-613e-4417-8c77-43e62251995d" />
 
 
 
@@ -10,6 +9,7 @@
 <img width="555" height="63" alt="mm0me33" src="https://github.com/user-attachments/assets/18e5ad81-70d2-4a85-a4ae-1e87eb251bb4" />
 
 hey
+<img width="200" height="50" alt="charlie-kirk-praying" src="https://github.com/user-attachments/assets/e92e255e-613e-4417-8c77-43e62251995d" />
 
 Current points of interest: aircraft (helicopters, planes) computers, rube goldberg machines, action movies, shows, national geographic, history, music (jeff buckley, the smiths, ABBA, muse, henry mancini)
 
