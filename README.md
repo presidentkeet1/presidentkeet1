@@ -11,7 +11,7 @@
 hey
 <img width="200" height="50" alt="charlie-kirk-praying" src="https://github.com/user-attachments/assets/e92e255e-613e-4417-8c77-43e62251995d" />
 
-Current points of interest: aircraft (helicopters, planes) computers (mostly apple), rube goldberg machines, action movies, shows, national geographic documentaries, history, music (jeff buckley, the smiths, ABBA, muse, henry mancini)
+Current points of interest: aircraft (helicopters, planes) computers (mostly apple), dystopian books, rube goldberg machines, action movies, shows, national geographic documentaries, history, music (jeff buckley, the smiths, ABBA, henry mancini, chevelle)
 
 I LOVE MOVIES.                                                                                                                                  
 current favorite movies: the outsiders, good burger, rush hour, the hitcher
