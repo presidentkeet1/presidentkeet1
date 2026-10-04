@@ -33,3 +33,5 @@ current favorite movies: the outsiders, good burger, rush hour, the hitcher
 
 ##
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31nwjsmx722fxdfbtxlm6gxmza5i&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=bfbfbf&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+!!! THE SPOTIFY THING IS INNACURATE MOST TIMES !!!
