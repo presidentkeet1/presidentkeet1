@@ -11,7 +11,7 @@
 hey
 <img width="200" height="50" alt="charlie-kirk-praying" src="https://github.com/user-attachments/assets/e92e255e-613e-4417-8c77-43e62251995d" />
 
-Current points of interest: aircraft (helicopters, planes) computers (mostly apple), dystopian books, rube goldberg machines, action movies, spy movies, shows, national geographic documentaries, history, music (jeff buckley, the smiths, ABBA, henry mancini, chevelle)
+Current points of interest: aircraft (helicopters, planes) computers (mostly apple), dystopian books, writing, rube goldberg machines, action movies, spy movies, shows, national geographic documentaries, history, music (jeff buckley, the smiths, ABBA, henry mancini, chevelle)
 
 I LOVE MOVIES.                                                                                                                                  
 current favorite movies: the outsiders, good burger, rush hour, the hitcher
@@ -35,4 +35,4 @@ current favorite movies: the outsiders, good burger, rush hour, the hitcher
 ##
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31nwjsmx722fxdfbtxlm6gxmza5i&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=bfbfbf&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-!!! THE SPOTIFY THING IS INNACURATE MOST TIMES !!!
+
