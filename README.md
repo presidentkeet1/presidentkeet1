@@ -11,6 +11,8 @@
 hey
 <img width="200" height="50" alt="charlie-kirk-praying" src="https://github.com/user-attachments/assets/e92e255e-613e-4417-8c77-43e62251995d" />
 
+my laptops have a tint to them so everything might look desaturated on your end
+
 Current points of interest: aircraft (helicopters, planes) computers (mostly apple), dystopian books, writing, rube goldberg machines, action movies, spy movies, shows, national geographic documentaries, history, music (jeff buckley, the smiths, ABBA, henry mancini, chevelle)
 
 I LOVE MOVIES.                                                                                                                                  
