@@ -12,7 +12,8 @@ hey
 
 my laptops have a tint to them so everything might look desaturated on your end
 
-Current points of interest: aircraft (helicopters, planes) computers (mostly apple), dystopian books, writing, rube goldberg machines, action movies, spy movies, shows, national geographic documentaries, history, music (jeff buckley, the smiths, chevelle, deftones)
+what i like
+aircraft, dystopian books, other books, writing, rube goldberg machines, action movies, spy movies, shows, national geographic documentaries, history, music (jeff buckley, the smiths, chevelle, deftones)
 
 I LOVE MOVIES.                                                                                                                                  
 current favorite movies: the outsiders, good burger, rush hour, the hitcher, herbie fully loaded
